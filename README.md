@@ -18,7 +18,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=siddarthkoul&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=siddarthkoul&theme=dark&hide_border=false)<br/>
-![][Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddarthkoul&layout=compact)](https://github.com/siddarthkoul/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddarthkoul&layout=compact)](https://github.com/siddarthkoul/github-readme-stats)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
