@@ -1,5 +1,6 @@
-<img src="Banner.png" border="0"></a>
-<img align="right" alt="GIF" src="image.gif" width="300">
+<img align="right" src="Banner.png" border="0"></a>
+<br>
+<img align="right" alt="GIF" src="image.gif" width="400" height="300"><br>
 # 💫About Me :
 
 🌱 I’m currently learning ReactJS and NodeJS <br>
