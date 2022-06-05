@@ -2,7 +2,7 @@
 
 # 💫About Me :
 
-🌱 I’m currently learning ReactJS and NodeJS
+🌱 I’m currently learning ReactJS and NodeJS <br>
 👯 I’m looking to collaborate on Web Design Projects
 💬 Ask me about Python and ReactJS
 📫 How to reach me: link.sid59@gmail.com
