@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/n0gVQD8/Hello-my-name-is-Siddarth-Koul-I-am-a-Frontend-Developer-I.png" width="1200" height="400" alt="Hello-my-name-is-Siddarth-Koul-I-am-a-Frontend-Developer-I" border="0"></a>
+<img src="https://i.ibb.co/n0gVQD8/Hello-my-name-is-Siddarth-Koul-I-am-a-Frontend-Developer-I.png" width="1200" height="450" alt="Hello-my-name-is-Siddarth-Koul-I-am-a-Frontend-Developer-I" border="0"></a>
 
 <h1 align="center">Hi 👋, I'm Siddarth Koul</h1>
 <h3 align="center">An Entry Level Frontend Developer.</h3>
