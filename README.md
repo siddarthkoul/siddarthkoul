@@ -3,11 +3,11 @@
 # 💫About Me :
 
 🌱 I’m currently learning ReactJS and NodeJS <br>
-👯 I’m looking to collaborate on Web Design Projects
-💬 Ask me about Python and ReactJS
-📫 How to reach me: link.sid59@gmail.com
-😄 Pronouns: he/him
-⚡ Fun fact: I am a basketball player
+👯 I’m looking to collaborate on Web Design Projects <br>
+💬 Ask me about Python and ReactJS <br>
+📫 How to reach me: link.sid59@gmail.com <br>
+😄 Pronouns: he/him <br>
+⚡ Fun fact: I am a basketball player <br>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddarthx) 
