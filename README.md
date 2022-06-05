@@ -1,3 +1,4 @@
+[![MasterHead](https://www.canva.com/design/DAFCt5WonYc/tocMAvfFmN-PXQJpV-2SNg/view?utm_content=DAFCt5WonYc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 <h1 align="center">Hi 👋, I'm Siddarth Koul</h1>
 <h3 align="center">An Entry Level Frontend Developer.</h3>
 
