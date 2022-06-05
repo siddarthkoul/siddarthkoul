@@ -1,5 +1,7 @@
 <img src="Banner.png" border="0"></a>
+
 # 💫About Me :
+
 🌱 I’m currently learning ReactJS and NodeJS
 👯 I’m looking to collaborate on Web Design Projects
 💬 Ask me about Python and ReactJS
